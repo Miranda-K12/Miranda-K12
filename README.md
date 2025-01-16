@@ -1,4 +1,4 @@
-<h1 align="center" style="margin-bottom: 300px;">Hello, 👋 I am Miranda Kachlavashvili</h1>
+<h1 align="center" style="margin-bottom: 300px;">Hello 👋 I am Miranda Kachlavashvili</h1>
 
 <h3 align="center" style="margin-bottom: 300px;">
   Motivated and hardworking Junior Front-End Developer from Georgia, continuously improving my skills with hands-on practice and learning, and actively seeking out opportunities.
