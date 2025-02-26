@@ -21,10 +21,6 @@
   <a href="https://sass-lang.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40" width="40" />
   </a>
-  
-  <a href="https://sass-lang.com/" target="_blank" class="d-inline-block">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" class="img-fluid" style="height: 40px; width: 40px;" />
-</a>
 
   <!-- JavaScript Icon -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
