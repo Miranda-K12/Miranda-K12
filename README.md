@@ -22,6 +22,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40" width="40" />
   </a>
   
+  <a href="https://sass-lang.com/" target="_blank" class="d-inline-block">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" class="img-fluid" style="height: 40px; width: 40px;" />
+</a>
+
   <!-- JavaScript Icon -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40">
@@ -31,6 +35,11 @@
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" width="40" />
   </a>
+
+  <!-- TypeScript Icon -->
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" width="40" />
+</a>
 
   <!-- GitHub Icon -->
   <a href="https://github.com/" target="_blank">
