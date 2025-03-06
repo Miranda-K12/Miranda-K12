@@ -21,10 +21,11 @@
   <a href="https://sass-lang.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40" width="40" />
   </a>
-   <!-- Bootstrap
+   <!-- Bootstrap -->
 <a href="https://getbootstrap.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40" width="40" />
 </a>
+
   <!-- JavaScript Icon -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40">
