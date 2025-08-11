@@ -41,6 +41,26 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" width="40" />
 </a>
 
+<!-- Redux Icon -->
+<a href="https://redux.js.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="40" width="40" />
+</a>
+
+<!-- Redux Toolkit Icon -->
+<a href="https://redux-toolkit.js.org/" target="_blank">
+  <img src="https://img.icons8.com/color/48/redux.png" height="40" width="40" />
+</a>
+
+<!-- Ant Design Icon -->
+<a href="https://ant.design/" target="_blank">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/antdesign.svg" height="40" width="40" />
+</a>
+
+<!-- Material UI Icon -->
+<a href="https://mui.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="40" width="40" />
+</a>
+
   <!-- GitHub Icon -->
   <a href="https://github.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" width="40" />
